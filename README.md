@@ -38,7 +38,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
+### 💼 Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![You NEED to Know This About Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=You+NEED+to+Know+This+About+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "You NEED to Know This About Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
