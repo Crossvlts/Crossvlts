@@ -2,8 +2,6 @@
 <h1 align="center">Hola, soy César👋</h1>
 </div>
 
-## Sobre mi
-
 
    <p align="left">
       <a href="https://github.com/Crossvlts?tab=followers">
